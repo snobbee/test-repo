@@ -1,3 +1,9 @@
+# Project Title
+
 ## Countdown Feature
 
-This feature allows you to start a countdown from a specified number of seconds.
+This feature allows users to set a countdown timer.
+
+## Usage
+
+To use the countdown feature, call the `countdown` function with the desired number of seconds.
